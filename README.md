@@ -1,11 +1,10 @@
-Evento Programado - Mantenimiento de Cuentas Inactivas
+## Evento Programado - Mantenimiento de Cuentas Inactivas
 
 Para mantener la base de datos limpia y cumplir con las políticas de retención de datos, la empresa ha decidido desactivar automáticamente las cuentas de clientes que no han realizado ninguna compra en los últimos dos años.
 
 
 
-Tarea: Crea un evento programado llamado evt_desactivar_cuentas_inactivas.
-
+#Tarea: Crea un evento programado llamado evt_desactivar_cuentas_inactivas.
 
 
 El evento debe ejecutarse una vez al mes.
